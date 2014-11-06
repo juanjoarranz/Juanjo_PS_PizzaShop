@@ -57,6 +57,10 @@
             {
                 num : 5,
                 name: 'Deliver Pie'
+            },
+            {
+                num: 6,
+                name: 'Collect Money'
             }
         ];
 
