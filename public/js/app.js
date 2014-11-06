@@ -3,7 +3,7 @@
 (function () {
     "use strict";
 
-    var x = 0;
+    var x = 2;
 
     var PizzaApp = angular.module( "PizzaApp", ["ngRoute"] );
 
